@@ -1,9 +1,10 @@
+// You can edit this code!
+// Click here and start typing.
 package main
 
-import (
-  "fmt"
-)
+import "fmt"
 
-function main(){
-  fmt.Println("Hello world!")
+func main() {
+	fmt.Println("Hello, 世界")
 }
+
